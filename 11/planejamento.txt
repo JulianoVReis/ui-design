@@ -1,0 +1,23 @@
+H1 - Projeto Pessoal
+--------------------------------------------------
+H2 - Problema
+*Criar um currículo online para iniciar uma presença digital.
+--------------------------------------------------
+H2 - Pesquisa
+*Listas de projetos/trabalhos e habilidades.
+--------------------------------------------------
+H2 - Conteúdo
+*Texto inicial sobre o que faço, foto.
+*Menu -> Experiência/Projetos, Formação e Contato.
+
+-Experiência
+*Nome do projeto, quando o projeto foi feito, tecnologias utilizadas.
+
+-Formação
+*Onde, quando e o título.
+*Cursos profissionais/intensivos.
+*Idiomas.
+
+-Contato
+*Email, telefone e rede social.
+--------------------------------------------------
